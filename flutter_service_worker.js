@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "609a3e8208be7fc09f82cf0ee5d1afca",
-"index.html": "2b57bb456a2d3cddf680c074a7d96833",
-"/": "2b57bb456a2d3cddf680c074a7d96833",
+"index.html": "98ac41ff3e72ad2586a04f5f45d429ec",
+"/": "98ac41ff3e72ad2586a04f5f45d429ec",
 "main.dart.js": "074a49749ab9d8248dedcba9454668d4",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -419,11 +418,7 @@ const RESOURCES = {
 "assets/assets/images/bees1.jpg": "0edcc6c05447e89eaa82af30a9b5c43a",
 "assets/assets/images/verified-account-outline.png": "5c102a091b26a2fa6635f927944022a8",
 "assets/assets/images/spain-flag.png": "4b3b22a250be6eac937297a4a13cc807",
-"assets/assets/images/hamperfilled.png": "3e8255c9a303ebae8b2500f36da7c7ab",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/images/hamperfilled.png": "3e8255c9a303ebae8b2500f36da7c7ab"
 };
 
 // The application shell files that are downloaded before a service worker can
