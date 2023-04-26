@@ -4,16 +4,17 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "609a3e8208be7fc09f82cf0ee5d1afca",
-"index.html": "9886a851de8be6dc0b17d30b9b4749c1",
-"/": "9886a851de8be6dc0b17d30b9b4749c1",
-"main.dart.js": "0e717c9e57fa77c29e1a9051367b85e1",
+"index.html": "45ba23b275d8d33431776d2b4cb0191d",
+"/": "45ba23b275d8d33431776d2b4cb0191d",
+"main.dart.js": "66c10455498d3384f4017fc9d81f34d5",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "manifest.json": "268b393874f58ba9274cf8fa19be1893",
-"assets/AssetManifest.json": "7089f691360a26f11e71ce3a2b9328fd",
+"assets/AssetManifest.json": "a915c0c19a25e22eedcbcda9c6b1a50f",
 "assets/NOTICES": "62bd87aed251b79ab6689434a1c9d16b",
 "assets/FontManifest.json": "e3637cec141ff037b4151edf1c0411cb",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
@@ -319,7 +320,6 @@ const RESOURCES = {
 "assets/assets/images/icons8-more-50.png": "e54b81161faf42e393cbb850db06c249",
 "assets/assets/images/apple-100.png": "fa3c9781720ee2f6c9b479316360bc22",
 "assets/assets/images/beekeeper7.png": "fcf5eab527eaa8545e93510511c3a029",
-"assets/assets/images/2000px-Logo_der_Freien_Demokraten.svg.png": "24d5a4dd9bd327007e4beb0e50ccc6f9",
 "assets/assets/images/swine-100.png": "2a922cb75b2a852db9fabe7b49ef9226",
 "assets/assets/images/capybara.png": "66b19e07f1a45da0e9c03efb0c9be8c2",
 "assets/assets/images/hampers.png": "8f89b4e642f265ffa9c1c0f60602a9f8",
@@ -418,7 +418,11 @@ const RESOURCES = {
 "assets/assets/images/bees1.jpg": "0edcc6c05447e89eaa82af30a9b5c43a",
 "assets/assets/images/verified-account-outline.png": "5c102a091b26a2fa6635f927944022a8",
 "assets/assets/images/spain-flag.png": "4b3b22a250be6eac937297a4a13cc807",
-"assets/assets/images/hamperfilled.png": "3e8255c9a303ebae8b2500f36da7c7ab"
+"assets/assets/images/hamperfilled.png": "3e8255c9a303ebae8b2500f36da7c7ab",
+"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
+"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
+"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
+"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
 };
 
 // The application shell files that are downloaded before a service worker can
